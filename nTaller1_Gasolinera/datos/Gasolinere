@@ -1,0 +1,13 @@
+tipo:Potente:1000000:1.0E7
+tipo:Benzina:10000:1000000.0
+tipo:Diesel:10000:2.0E7
+tipo:Muy potente:2000000:1000000.0
+surtidor:Sandra:Potente:0.0:Benzina:0.0:Diesel:0.0:Muy potente:0.0
+surtidor:Juan José:Potente:0.0:Benzina:0.0:Diesel:0.0:Muy potente:0.0
+surtidor:Pablo:Potente:0.0:Benzina:0.0:Diesel:0.0:Muy potente:0.0
+surtidor:Juan José:Potente:0.0:Benzina:0.0:Diesel:0.0:Muy potente:0.0
+empleado:Pablo:0
+empleado:Cris:0
+empleado:Pedro:0
+empleado:Juan José:0
+empleado:Sandra:0
